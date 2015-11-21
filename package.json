@@ -1,0 +1,9 @@
+{
+	"name":"chatrooms",
+	"version":"0.0.1",
+	"description":"提供多房间的多人聊天的服务",
+	"dependencies":{
+		"socket.io":"~0.9.6",
+		"mime":"~1.2.7"
+	}
+}
